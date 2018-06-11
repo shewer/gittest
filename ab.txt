@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 aoeuuaouaou
 aoeuuaouaou
+=======
+v1
+oueaouoaeu
+aoeuoauou
+>>>>>>> e4d9da5b171eeaedd963300bab7f9a846081e531
